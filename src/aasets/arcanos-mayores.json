@@ -1,0 +1,244 @@
+[
+  {
+    "nombre": "El Loco",
+    "upright": {
+      "significado": "Significado positivo de El Loco",
+      "mensaje": "Energía de significado positivo de el loco."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Loco",
+      "mensaje": "Cuidado: significado invertido de el loco."
+    }
+  },
+  {
+    "nombre": "El Mago",
+    "upright": {
+      "significado": "Significado positivo de El Mago",
+      "mensaje": "Energía de significado positivo de el mago."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Mago",
+      "mensaje": "Cuidado: significado invertido de el mago."
+    }
+  },
+  {
+    "nombre": "La Sacerdotisa",
+    "upright": {
+      "significado": "Significado positivo de La Sacerdotisa",
+      "mensaje": "Energía de significado positivo de la sacerdotisa."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Sacerdotisa",
+      "mensaje": "Cuidado: significado invertido de la sacerdotisa."
+    }
+  },
+  {
+    "nombre": "La Emperatriz",
+    "upright": {
+      "significado": "Significado positivo de La Emperatriz",
+      "mensaje": "Energía de significado positivo de la emperatriz."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Emperatriz",
+      "mensaje": "Cuidado: significado invertido de la emperatriz."
+    }
+  },
+  {
+    "nombre": "El Emperador",
+    "upright": {
+      "significado": "Significado positivo de El Emperador",
+      "mensaje": "Energía de significado positivo de el emperador."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Emperador",
+      "mensaje": "Cuidado: significado invertido de el emperador."
+    }
+  },
+  {
+    "nombre": "El Hierofante",
+    "upright": {
+      "significado": "Significado positivo de El Hierofante",
+      "mensaje": "Energía de significado positivo de el hierofante."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Hierofante",
+      "mensaje": "Cuidado: significado invertido de el hierofante."
+    }
+  },
+  {
+    "nombre": "Los Enamorados",
+    "upright": {
+      "significado": "Significado positivo de Los Enamorados",
+      "mensaje": "Energía de significado positivo de los enamorados."
+    },
+    "reversed": {
+      "significado": "Significado invertido de Los Enamorados",
+      "mensaje": "Cuidado: significado invertido de los enamorados."
+    }
+  },
+  {
+    "nombre": "El Carro",
+    "upright": {
+      "significado": "Significado positivo de El Carro",
+      "mensaje": "Energía de significado positivo de el carro."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Carro",
+      "mensaje": "Cuidado: significado invertido de el carro."
+    }
+  },
+  {
+    "nombre": "La Fuerza",
+    "upright": {
+      "significado": "Significado positivo de La Fuerza",
+      "mensaje": "Energía de significado positivo de la fuerza."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Fuerza",
+      "mensaje": "Cuidado: significado invertido de la fuerza."
+    }
+  },
+  {
+    "nombre": "El Ermitaño",
+    "upright": {
+      "significado": "Significado positivo de El Ermitaño",
+      "mensaje": "Energía de significado positivo de el ermitaño."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Ermitaño",
+      "mensaje": "Cuidado: significado invertido de el ermitaño."
+    }
+  },
+  {
+    "nombre": "La Rueda de la Fortuna",
+    "upright": {
+      "significado": "Significado positivo de La Rueda de la Fortuna",
+      "mensaje": "Energía de significado positivo de la rueda de la fortuna."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Rueda de la Fortuna",
+      "mensaje": "Cuidado: significado invertido de la rueda de la fortuna."
+    }
+  },
+  {
+    "nombre": "La Justicia",
+    "upright": {
+      "significado": "Significado positivo de La Justicia",
+      "mensaje": "Energía de significado positivo de la justicia."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Justicia",
+      "mensaje": "Cuidado: significado invertido de la justicia."
+    }
+  },
+  {
+    "nombre": "El Colgado",
+    "upright": {
+      "significado": "Significado positivo de El Colgado",
+      "mensaje": "Energía de significado positivo de el colgado."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Colgado",
+      "mensaje": "Cuidado: significado invertido de el colgado."
+    }
+  },
+  {
+    "nombre": "La Muerte",
+    "upright": {
+      "significado": "Significado positivo de La Muerte",
+      "mensaje": "Energía de significado positivo de la muerte."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Muerte",
+      "mensaje": "Cuidado: significado invertido de la muerte."
+    }
+  },
+  {
+    "nombre": "La Templanza",
+    "upright": {
+      "significado": "Significado positivo de La Templanza",
+      "mensaje": "Energía de significado positivo de la templanza."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Templanza",
+      "mensaje": "Cuidado: significado invertido de la templanza."
+    }
+  },
+  {
+    "nombre": "El Diablo",
+    "upright": {
+      "significado": "Significado positivo de El Diablo",
+      "mensaje": "Energía de significado positivo de el diablo."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Diablo",
+      "mensaje": "Cuidado: significado invertido de el diablo."
+    }
+  },
+  {
+    "nombre": "La Torre",
+    "upright": {
+      "significado": "Significado positivo de La Torre",
+      "mensaje": "Energía de significado positivo de la torre."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Torre",
+      "mensaje": "Cuidado: significado invertido de la torre."
+    }
+  },
+  {
+    "nombre": "La Estrella",
+    "upright": {
+      "significado": "Significado positivo de La Estrella",
+      "mensaje": "Energía de significado positivo de la estrella."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Estrella",
+      "mensaje": "Cuidado: significado invertido de la estrella."
+    }
+  },
+  {
+    "nombre": "La Luna",
+    "upright": {
+      "significado": "Significado positivo de La Luna",
+      "mensaje": "Energía de significado positivo de la luna."
+    },
+    "reversed": {
+      "significado": "Significado invertido de La Luna",
+      "mensaje": "Cuidado: significado invertido de la luna."
+    }
+  },
+  {
+    "nombre": "El Sol",
+    "upright": {
+      "significado": "Significado positivo de El Sol",
+      "mensaje": "Energía de significado positivo de el sol."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Sol",
+      "mensaje": "Cuidado: significado invertido de el sol."
+    }
+  },
+  {
+    "nombre": "El Juicio",
+    "upright": {
+      "significado": "Significado positivo de El Juicio",
+      "mensaje": "Energía de significado positivo de el juicio."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Juicio",
+      "mensaje": "Cuidado: significado invertido de el juicio."
+    }
+  },
+  {
+    "nombre": "El Mundo",
+    "upright": {
+      "significado": "Significado positivo de El Mundo",
+      "mensaje": "Energía de significado positivo de el mundo."
+    },
+    "reversed": {
+      "significado": "Significado invertido de El Mundo",
+      "mensaje": "Cuidado: significado invertido de el mundo."
+    }
+  }
+]
