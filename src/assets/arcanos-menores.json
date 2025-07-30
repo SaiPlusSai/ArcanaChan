@@ -1,0 +1,618 @@
+[
+  {
+    "nombre": "As de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Dos de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Tres de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Cuatro de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Cinco de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Seis de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Siete de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Ocho de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Nueve de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Diez de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Sota de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Caballo de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Reina de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "Rey de Copas",
+    "upright": {
+      "significado": "emociones, relaciones, intuición positivo",
+      "mensaje": "Energía de emociones, relaciones, intuición positivo."
+    },
+    "reversed": {
+      "significado": "emociones, relaciones, intuición bloqueado",
+      "mensaje": "Cuidado: emociones, relaciones, intuición bloqueado."
+    }
+  },
+  {
+    "nombre": "As de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Dos de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Tres de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Cuatro de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Cinco de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Seis de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Siete de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Ocho de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Nueve de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Diez de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Sota de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Caballo de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Reina de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "Rey de Oros",
+    "upright": {
+      "significado": "dinero, trabajo, seguridad positivo",
+      "mensaje": "Energía de dinero, trabajo, seguridad positivo."
+    },
+    "reversed": {
+      "significado": "dinero, trabajo, seguridad bloqueado",
+      "mensaje": "Cuidado: dinero, trabajo, seguridad bloqueado."
+    }
+  },
+  {
+    "nombre": "As de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Dos de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Tres de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Cuatro de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Cinco de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Seis de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Siete de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Ocho de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Nueve de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Diez de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Sota de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Caballo de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Reina de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "Rey de Espadas",
+    "upright": {
+      "significado": "pensamiento, conflicto, decisiones positivo",
+      "mensaje": "Energía de pensamiento, conflicto, decisiones positivo."
+    },
+    "reversed": {
+      "significado": "pensamiento, conflicto, decisiones bloqueado",
+      "mensaje": "Cuidado: pensamiento, conflicto, decisiones bloqueado."
+    }
+  },
+  {
+    "nombre": "As de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Dos de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Tres de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Cuatro de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Cinco de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Seis de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Siete de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Ocho de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Nueve de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Diez de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Sota de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Caballo de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Reina de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  },
+  {
+    "nombre": "Rey de Bastos",
+    "upright": {
+      "significado": "creatividad, acción, pasión positivo",
+      "mensaje": "Energía de creatividad, acción, pasión positivo."
+    },
+    "reversed": {
+      "significado": "creatividad, acción, pasión bloqueado",
+      "mensaje": "Cuidado: creatividad, acción, pasión bloqueado."
+    }
+  }
+]
